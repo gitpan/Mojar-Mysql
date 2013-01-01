@@ -1,0 +1,16 @@
+data/backup__myapp_test.sql
+data/tester_localhost.cnf
+debian/changelog
+lib/Mojar/Mysql.pm
+lib/Mojar/Mysql/Connector.pm
+Makefile.PL
+MANIFEST			This list of files
+MANIFEST.SKIP
+README.md
+test/00-load.t
+test/30-mysql-connector.t
+test/31-mysql-helper.t
+test/manifest.t
+test/pod.t
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
