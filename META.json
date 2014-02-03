@@ -4,7 +4,7 @@
       "Nic Sandfield <niczero@cpan.org>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.6302, CPAN::Meta::Converter version 2.120630",
+   "generated_by" : "ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.120921",
    "license" : [
       "artistic_2"
    ],
@@ -17,6 +17,7 @@
       "directory" : [
          "t",
          "inc",
+         "data",
          "test"
       ]
    },
@@ -35,6 +36,7 @@
          "requires" : {
             "DBD::mysql" : "3.0008",
             "DBI" : "1.53",
+            "Mojar" : "1.053",
             "Mojolicious" : "3.33",
             "perl" : "5.010001"
          }
@@ -53,5 +55,5 @@
          "url" : "http://github.com/niczero/mojar-mysql"
       }
    },
-   "version" : "2.034"
+   "version" : "2.042"
 }

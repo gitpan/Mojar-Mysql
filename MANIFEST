@@ -1,11 +1,11 @@
-data/backup__myapp_test.sql
-data/tester_localhost.cnf
-debian/changelog
+Changes
+data/backup__test_myapp.sql
+data/testmyappro_localhost.cnf
 lib/Mojar/Mysql.pm
 lib/Mojar/Mysql/Connector.pm
 LICENSE
 Makefile.PL
-MANIFEST			This list of files
+MANIFEST
 MANIFEST.SKIP
 README.md
 test/00-load.t
