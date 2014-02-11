@@ -1,7 +1,7 @@
 package Mojar::Mysql;
 use Mojo::Base -strict;
 
-our $VERSION = 2.042;
+our $VERSION = 2.063;
 
 1;
 __END__
